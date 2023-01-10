@@ -1,5 +1,5 @@
-###https://rahuldkjain.github.io/gh-profile-readme-generator/
 
+<!--(https://rahuldkjain.github.io/gh-profile-readme-generator/) -->
 [![MasterHead](https://media1.thehungryjpeg.com/thumbs2/ori_3751743_yt4lc4kgmuyzeahmryiofe9k39x9b1cz4b2qsuzv_coding-system-minimal-infographic-banner-vector.jpg)](https://yonjus.io)
 
 <h1 align="center">Hi 👋, I'm Yonju</h1>
